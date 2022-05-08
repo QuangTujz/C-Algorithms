@@ -1,2 +1,2 @@
 # C-Algorithms
-C++
+**Learning about C++**
